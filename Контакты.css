@@ -1,0 +1,28 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 273px;
+}
+
+.u-section-1 .u-table-1 {
+  margin-top: 13px;
+  margin-bottom: 5px;
+}
+
+.u-section-1 .u-table-entity-1 {
+  min-height: 100px;
+}
+
+.u-section-1 .u-table-header-1 {
+  font-weight: 700;
+  background-image: none;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 298px;
+  }
+
+  .u-section-1 .u-table-1 {
+    margin-top: 9px;
+    margin-bottom: 9px;
+  }
+}
